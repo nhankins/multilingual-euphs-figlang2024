@@ -1,4 +1,4 @@
-# multilingual-euphs-figlang2024
+# Multilingual Euphemism Detection - FigLang 2024
 My submission to the Multilingual Euphemism Detection Shared Task for the 4th Workshop on Figurative Language Processing (FigLang 2024), co-located with NAACL 2024.
 
 # Task Description
