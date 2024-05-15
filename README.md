@@ -12,6 +12,7 @@ Link: https://www.codabench.org/competitions/1959/#/pages-tab
 - data = training and test data
 
 - notebooks = code for all experiments and inference
+
   *Chose Spanish notebooks at random as an example. Explanations of reasoning should be included in the code comments or in the paper submission itself. The multilingual experiment code wasn't included since the workflow is identical to the euph_es_2.ipynb (second experiment with DistilBERT Multilingual Cased base model), except the dataset was all the languages in one.
 
 
