@@ -7,14 +7,19 @@ My submission to the Multilingual Euphemism Detection Shared Task for the 4th Wo
 
 Link: https://www.codabench.org/competitions/1959/#/pages-tab
 
-# Paper Abstract
+# Repository Organization Explanation
 
-..
 
 # HuggingFace Profile
+
+You can find the fine-tuning outputs and models for inference/reproducibility here
 https://huggingface.co/nhankins
 
 
 # Citation Information
 
-..
+Coming soon. Will post a link to the paper on google scholar or a similar website, as well.
+
+# Contact me
+
+Feel free to send me an email if you have questions or want to collaborate on a research project.
