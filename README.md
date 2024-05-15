@@ -18,7 +18,8 @@ Link: https://www.codabench.org/competitions/1959/#/pages-tab
 
 # HuggingFace Profile
 
-You can find the fine-tuning outputs and models for inference/reproducibility here
+You can find the fine-tuning outputs and models for inference/reproducibility here:
+
 https://huggingface.co/nhankins
 
 
